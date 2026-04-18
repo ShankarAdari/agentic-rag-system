@@ -36,8 +36,6 @@ coverage/
 *.lcov
 .nyc_output
 jspm_packages/
-
-# TypeScript cache
 *.tsbuildinfo
 
 # Optional npm cache directory
