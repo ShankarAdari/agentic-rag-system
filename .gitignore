@@ -35,8 +35,6 @@ pids
 coverage/
 *.lcov
 .nyc_output
-
-# Dependency directories
 jspm_packages/
 
 # TypeScript cache
