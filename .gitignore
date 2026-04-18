@@ -38,8 +38,6 @@ coverage/
 jspm_packages/
 *.tsbuildinfo
 .npm
-
-# Optional eslint cache
 .eslintcache
 
 # Microbundle cache
