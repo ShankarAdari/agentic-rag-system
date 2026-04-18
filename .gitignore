@@ -55,8 +55,6 @@ jspm_packages/
 .storybook-out
 tmp/
 temp/
-
-# Database
 *.db
 *.sqlite
 *.sqlite3
