@@ -37,8 +37,6 @@ coverage/
 .nyc_output
 jspm_packages/
 *.tsbuildinfo
-
-# Optional npm cache directory
 .npm
 
 # Optional eslint cache
