@@ -46,7 +46,6 @@ Clone the repo:
 
 Bash
 
-
 Bash
 
 pip install -r requirements.txt
