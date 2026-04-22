@@ -44,7 +44,7 @@ OpenAI API Key
 Installation
 Clone the repo:
 
-Bash
+
 Bash
 
 pip install -r requirements.txt
