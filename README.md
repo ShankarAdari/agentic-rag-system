@@ -51,7 +51,6 @@ Bash
 
 pip install -r requirements.txt
 Configure Environment: Create a .env file and add your OPENAI_API_KEY.
-
 Run the Application:
 
 Bash
