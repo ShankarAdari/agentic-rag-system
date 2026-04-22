@@ -48,7 +48,6 @@ Bash
 
 git clone https://github.com/yourusername/agentic-rag-system.git
 cd agentic-rag-system
-Install dependencies:
 Bash
 
 pip install -r requirements.txt
