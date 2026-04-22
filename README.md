@@ -46,7 +46,7 @@ Clone the repo:
 
 Bash
 
-git clone https://github.com/yourusername/agentic-rag-system.git
+
 Bash
 
 pip install -r requirements.txt
