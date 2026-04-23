@@ -309,7 +309,6 @@ packages:
   '@aws-sdk/client-sso@3.907.0':
     resolution: {integrity: sha512-ANuu0duNTcQHv0g5YrEuWImT8o9t6li3A+MtAaKxIbTA3eFQnl6xHDxyrbsrU19FtKPg3CWhvfY04j6DaDvR8g==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/core@3.907.0':
     resolution: {integrity: sha512-vuIHL8qUcA5oNi7IWSZauCMaXstWTcSsnK1iHcvg92ddGDo1LMd2kQNo0G9UANa8vOfc908+8xKO40gfL8+M7w==}
     engines: {node: '>=18.0.0'}
