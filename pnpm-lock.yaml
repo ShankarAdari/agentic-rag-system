@@ -333,7 +333,6 @@ packages:
   '@aws-sdk/credential-provider-web-identity@3.907.0':
     resolution: {integrity: sha512-1CmRE/M8LJ/joXm5vUsKkQS35MoWA4xvUH9J1jyCuL3J9A8M+bnTe6ER8fnNLgmEs6ikdmYEIdfijPpBjBpFig==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/middleware-bucket-endpoint@3.901.0':
     resolution: {integrity: sha512-mPF3N6eZlVs9G8aBSzvtoxR1RZqMo1aIwR+X8BAZSkhfj55fVF2no4IfPXfdFO3I66N+zEQ8nKoB0uTATWrogQ==}
     engines: {node: '>=18.0.0'}
