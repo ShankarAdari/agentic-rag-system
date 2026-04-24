@@ -342,7 +342,6 @@ packages:
   '@aws-sdk/middleware-flexible-checksums@3.907.0':
     resolution: {integrity: sha512-rrJFVsaeGr+bYOzUO2ph9LihFPNq9wcdg/9gcDI3oC9LtOgKeidFgU4t9603WGKGc2eXf4MxzYnaf7LXDOnVvQ==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/middleware-host-header@3.901.0':
     resolution: {integrity: sha512-yWX7GvRmqBtbNnUW7qbre3GvZmyYwU0WHefpZzDTYDoNgatuYq6LgUIQ+z5C04/kCRoFkAFrHag8a3BXqFzq5A==}
     engines: {node: '>=18.0.0'}
