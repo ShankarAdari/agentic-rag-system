@@ -357,7 +357,6 @@ packages:
   '@aws-sdk/middleware-sdk-s3@3.907.0':
     resolution: {integrity: sha512-8VVxcZPmJOKI8P08v5ARvoXbLV41abpAIIkt388fp/lwtfzbnXt6sWhhAk/pHgvCR1NnuvkbGuXGVcux59648Q==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/middleware-ssec@3.901.0':
     resolution: {integrity: sha512-YiLLJmA3RvjL38mFLuu8fhTTGWtp2qT24VqpucgfoyziYcTgIQkJJmKi90Xp6R6/3VcArqilyRgM1+x8i/em+Q==}
     engines: {node: '>=18.0.0'}
