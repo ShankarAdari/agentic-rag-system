@@ -360,7 +360,6 @@ packages:
   '@aws-sdk/middleware-ssec@3.901.0':
     resolution: {integrity: sha512-YiLLJmA3RvjL38mFLuu8fhTTGWtp2qT24VqpucgfoyziYcTgIQkJJmKi90Xp6R6/3VcArqilyRgM1+x8i/em+Q==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/middleware-user-agent@3.907.0':
     resolution: {integrity: sha512-j/h3lk4X6AAXvusx/h8rr0zlo7G0l0quZM4k4rS/9jzatI53HCsrMaiGu6YXbxuVqtfMqv0MAj0MVhaMsAIs4A==}
     engines: {node: '>=18.0.0'}
