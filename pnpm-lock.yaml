@@ -372,7 +372,6 @@ packages:
   '@aws-sdk/s3-request-presigner@3.907.0':
     resolution: {integrity: sha512-7RZH4fhCRVq8bacAZd6x+Ko04cmV+Zq4Axk1HZqL3epZ+r4HLR/0NklYZjr/dqMlMx9VbexzNkpBY1VgWxOSyQ==}
     engines: {node: '>=18.0.0'}
-
   '@aws-sdk/signature-v4-multi-region@3.907.0':
     resolution: {integrity: sha512-f5XHRu6MTbjB/ud5RwBZzntYMgThRaDur5PJRZ1CaYAL8gZLNuEpJLzUA7o3queeSfE9JboO+cm1gZnOfnYJkg==}
     engines: {node: '>=18.0.0'}
